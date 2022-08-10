@@ -24,6 +24,14 @@ A compilation of resources for cyclists in Massachusetts
 - JRA Cycles (Medford, they mostly have mountain/gravel bikes but run crazy good sales 70% off from time to time)
 
 
+## Bike Kitchens/DIY Repairs
+- CommonWheels (Allston-Brighton)
+- Somerville Bike Kitchen (Somerville)
+- Femmechanics (hosted at SBK for FTW cyclists)
+- Dorchester Bike Kitchen (Dorchester) 
+- Boston Cyclists Union (rotating - East Boston, Roxbury, Mattapan) 
+
+
 ## Biking schools
 - Susan McLucas (Bicycle Whisperer, SusanBMcL@gmail.com), Bicycle Riding School (near Davis Sq), 6177766524, https://www.bicycleridingschool.org/
 - Broadway Bicycle School https://broadwaybicycleschool.com/
@@ -68,6 +76,7 @@ A compilation of resources for cyclists in Massachusetts
 - MassBikes (Instagram page)
 - Boston Cyclist Union
 - GB NEMBA (Greater Boston)
+- Boston Bike Polo
 
 ## Cycling apps
 - STRAVA (must have -- no question) (Pro for the win)
